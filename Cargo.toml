@@ -1,0 +1,13 @@
+[package]
+name = "rust_roads"
+version = "0.0.1"
+authors = ["huang825172 <1048035187@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+kiss3d     = "0.21"
+nalgebra   = "0.18"
+ncollide3d = "0.20"
+nphysics3d = "0.12"
